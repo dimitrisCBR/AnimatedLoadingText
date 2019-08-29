@@ -1,15 +1,12 @@
 # AnimatedLoadingText
 
-<img src="/files/final_loading.gif" alt="sample" title="sample" vspace="32" hspace="16"/>
-
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 [![API](https://img.shields.io/badge/API-16%2B-lightgrey.svg?style=flat)]()
 
+<img src="/files/final_loading.gif" alt="sample" title="sample" vspace="32" hspace="16"/>
+
 A simple library for creating animated loading texts. The animation reacts to the phone's tilt.
 
-<a href="https://medium.com/p/d4acfe852879">
-  <img alt="Medium" src="/art/medium.png" width="120" height="80" hspace="15" />
-</a>
 
 ## Try it out:
 
@@ -40,7 +37,7 @@ dependencies {
         app:alv_strokeGap="4dp"
         app:alv_strokeWidth="8dp"
         app:alv_text="Loading"
-        app:alv_textColor="#7D7676"
+        app:alv_textColor="#7D7676" 
         app:alv_textSize="40sp" />
 ```
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#353535">
+
+
+    <com.cbr.labs.alt.AnimatedLoadingTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:alv_strokeColor="#A4A0A0"
+        app:alv_strokeGap="4dp"
+        app:alv_strokeWidth="8dp"
+        app:alv_text="Loading"
+        app:alv_textColor="#7D7676"
+        app:alv_textSize="40sp" />
+
+</FrameLayout>

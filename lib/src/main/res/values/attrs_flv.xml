@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimatedLoadingTextView">
+        <attr name="alv_text" format="string" />
+        <attr name="alv_textColor" format="color" />
+        <attr name="alv_textSize" format="dimension" />
+        <attr name="alv_strokeGap" format="dimension" />
+        <attr name="alv_strokeWidth" format="dimension" />
+        <attr name="alv_strokeColor" format="color" />
+    </declare-styleable>
+</resources>
